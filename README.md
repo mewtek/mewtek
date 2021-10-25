@@ -8,22 +8,9 @@ I'm a developer for CoatHanger Studios, a small game/software group I work on wi
 
 I'm the primary devloper for the [OpenStar](https://github.com/Zeexel/OpenStar) project, a project aimed at recreating The Weather Channel's IntelliStar systems using Haxe.
 
+My primary languages for programming are:
+* Python
+* C#
+* Haxe
 
-Socials:
-
-[Twitter](https://twitter.com/Zeexel32)
-
-<!--
-**Zeexel/Zeexel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And at the moment I'm learning more and more about langauges like GO, JavaScript, as well as some markdown langauges like HTML and CSS, likely using SCSS.
