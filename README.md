@@ -1,6 +1,4 @@
-### June
-
-Hi, I'm April! I make things.
+## Hi, I'm April! I make things.
 
 ``She/They/Any``
 
