@@ -1,12 +1,12 @@
 ### June
 
-Hi! I'm June P. I make things.
+Hi, I'm April! I make things.
 
 ``She/They/Any``
 
 I'm a developer for CoatHanger Studios, a small game/software group I work on with my girlfriend [Maggie](https://github.com/magdelenn).
 
-I'm the primary devloper for the [OpenStar](https://github.com/Zeexel/OpenStar) project, a project aimed at recreating The Weather Channel's IntelliStar systems using Haxe.
+I'm the primary devloper for the [OpenStar](https://github.com/mewtek/OpenStar) project, a project aimed at recreating The Weather Channel's IntelliStar systems using Haxe.
 
 My primary languages for programming are:
 * Python
