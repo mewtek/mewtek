@@ -2,7 +2,7 @@
 
 ``She/They/Any``
 
-I'm the primary devloper for the [OpenStar](https://github.com/mewtek/OpenStar) project, a project aimed at recreating The Weather Channel's IntelliStar systems using Haxe. I also work alot in Source 2 using s&box.
+I'm the primary developer for the [OpenStar](https://github.com/mewtek/OpenStar) project, a project aimed at recreating The Weather Channel's IntelliStar systems using Haxe. I also work alot in Source 2 using s&box.
 
 My primary languages for programming are:
 * Python
