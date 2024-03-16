@@ -8,5 +8,4 @@ My primary languages for programming are:
 * Rust
 
 
-__XMR Wallet:__ ``44NsmTCoGfyDDKoEBA5YXnCBgPYBrx9xzWkvZjGGj31AWYDikK3eUUsiEbLBwdGgH4FebFdW4DzYRV6LNN5wyZjTS1XRxhP
- Locatio``
+__XMR Wallet:__ ``44NsmTCoGfyDDKoEBA5YXnCBgPYBrx9xzWkvZjGGj31AWYDikK3eUUsiEbLBwdGgH4FebFdW4DzYRV6LNN5wyZjTS1XRxhP``
